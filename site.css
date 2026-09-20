@@ -13493,7 +13493,7 @@ a.ant-typography[disabled]:active, .ant-typography a[disabled]:active, a.ant-typ
 .ant-cascader-menus.ant-cascader-rtl .ant-cascader-menu-item-content { text-align: end; }
 .package-list-view-set-1 { margin: 55px auto; display: flex; flex-wrap: wrap; gap: 70px 2%; }
 .package-list-view-set-2 { position: relative; }
-.package-list-view-set-2.package-list-view-set-2-background { background-size: cover; background-image: url("https://www.familybreak.co.il/themes/familybreak2/images/test.svg"); }
+.package-list-view-set-2.package-list-view-set-2-background { background-size: cover; background-image: url("/assets/images/hotel-default.png"); }
 .package-list-view-set-2 > div { margin-top: 55px; display: grid; gap: 30px; grid-template-columns: repeat(auto-fit, minmax(320px, 30%)); }
 .package-list-view-set-2 > div.without-grid-repeat { gap: unset; grid-template-columns: unset; }
 .package-list-view-set-2 > div .package_box2 { width: 100%; }
@@ -13933,7 +13933,7 @@ body { --primary-color: #002854; --secondary-color: #0166ff; --tertiary-color: #
 .theme-wrapper-6paanu57dyx, .theme-wrapper-6paanu57dyx * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-6paanu57dyx svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-6paanu57dyx { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-6paanu57dyx { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 #banner { --secondary-color: #00ccff; --background-color: #00ccff33; }
 .theme-wrapper-y5i8tgnq00n, .theme-wrapper-y5i8tgnq00n * { }
@@ -13942,7 +13942,7 @@ body { --primary-color: #002854; --secondary-color: #0166ff; --tertiary-color: #
 .theme-wrapper-wvi4uxj0iuj, .theme-wrapper-wvi4uxj0iuj * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-wvi4uxj0iuj svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-wvi4uxj0iuj { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-wvi4uxj0iuj { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 .PackageListView_1dad58f { --secondary-color: #00ccff; --background-color: #00ccff33; }
 .theme-wrapper-w39hxocaeqc, .theme-wrapper-w39hxocaeqc * { }
@@ -13956,14 +13956,14 @@ body { --primary-color: #002854; --secondary-color: #0166ff; --tertiary-color: #
 .theme-wrapper-57e4w10v43f, .theme-wrapper-57e4w10v43f * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-57e4w10v43f svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-57e4w10v43f { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-57e4w10v43f { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 .theme-wrapper-nwhf4fwmumr, .theme-wrapper-nwhf4fwmumr * { }
 .theme-wrapper-nwhf4fwmumr svg * { }
 .theme-wrapper-e2p7dizfl3, .theme-wrapper-e2p7dizfl3 * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-e2p7dizfl3 svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-e2p7dizfl3 { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-e2p7dizfl3 { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 .theme-wrapper-2sxul8vywum, .theme-wrapper-2sxul8vywum * { }
 .theme-wrapper-2sxul8vywum svg * { }
@@ -15502,14 +15502,14 @@ body { --primary-color: #002854; --secondary-color: #0166ff; --tertiary-color: #
 .theme-wrapper-q708idtakjc, .theme-wrapper-q708idtakjc * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-q708idtakjc svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-q708idtakjc { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-q708idtakjc { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 .theme-wrapper-uu4lchnrq6, .theme-wrapper-uu4lchnrq6 * { }
 .theme-wrapper-uu4lchnrq6 svg * { }
 .theme-wrapper-ks1dsz81yi9, .theme-wrapper-ks1dsz81yi9 * { color: rgb(255, 255, 255) !important; }
 .theme-wrapper-ks1dsz81yi9 svg * { fill: rgb(255, 255, 255) !important; }
 @media (max-width: 768px) {
-  .theme-wrapper-ks1dsz81yi9 { background: url("https://storage.googleapis.com/uxpilot-auth.appspot.com/gen_03809bb6d9_e6a1e2d55789f44f.png") center center / cover !important; }
+  .theme-wrapper-ks1dsz81yi9 { background: url("/img/ab056173b94862a3.png") center center / cover !important; }
 }
 .theme-wrapper-wy4ccvy2nwm, .theme-wrapper-wy4ccvy2nwm * { }
 .theme-wrapper-wy4ccvy2nwm svg * { }
