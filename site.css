@@ -15608,4 +15608,3 @@ body { --primary-color: #002854; --secondary-color: #0166ff; --tertiary-color: #
   #manage-order #manage-order-title { flex-direction: column; }
   #manage-order #manage-order-title .btn-style-2 { font-size: 21px; font-weight: 700; padding: 20px !important; }
 }
-html body { overflow-y: hidden; }
