@@ -20,3 +20,16 @@
   window.addEventListener('scroll', update, { passive: true });
   update();
 })();
+
+// Static wiring for the flows the React app drives at runtime:
+// the cart pill opens the populated cart page, and the cart's checkout button
+// goes to the checkout page.
+(function () {
+  var here = location.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
+  document.addEventListener('click', function (e) {
+    var pill = e.target.closest && e.target.closest('.concept-cart-trigger:not(.concept-cart-trigger--placeholder)');
+    if (pill && here !== '/cart') { e.preventDefault(); location.href = '/cart'; return; }
+    var pay = e.target.closest && e.target.closest('.move-to-checkout');
+    if (pay) { e.preventDefault(); location.href = '/checkout'; }
+  });
+})();

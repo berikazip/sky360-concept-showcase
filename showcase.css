@@ -1,3 +1,4 @@
 
 /* showcase chrome (not part of the product) */
 body[data-showcase] .bot-fab{display:none}
+.shopping_cart.cart-open{transform:none !important}
